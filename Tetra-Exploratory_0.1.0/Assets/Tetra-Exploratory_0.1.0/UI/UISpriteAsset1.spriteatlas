@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UISpriteAsset1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5e67abe0fc9964f44bca5a87299d70b0, type: 3}
+    - {fileID: 2800000, guid: c99f9d0a2ffb386488ecab9f444e681d, type: 3}
+    - {fileID: 2800000, guid: ddc39752b1d705d47987ad8030183d01, type: 3}
+    - {fileID: 2800000, guid: 163e6d075ca40d24c9f910d9018a9b4c, type: 3}
+    - {fileID: 2800000, guid: e35ea59c39ec8644b93684e6a2eae6b4, type: 3}
+    - {fileID: 2800000, guid: a6869c19a6222c542b742298ccd94ad9, type: 3}
+    - {fileID: 2800000, guid: 662b5dfa79d103a438c2fd0ad314d907, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5e67abe0fc9964f44bca5a87299d70b0, type: 3}
+  - {fileID: 21300000, guid: ddc39752b1d705d47987ad8030183d01, type: 3}
+  - {fileID: 21300000, guid: 163e6d075ca40d24c9f910d9018a9b4c, type: 3}
+  - {fileID: 21300000, guid: a6869c19a6222c542b742298ccd94ad9, type: 3}
+  - {fileID: 21300000, guid: c99f9d0a2ffb386488ecab9f444e681d, type: 3}
+  - {fileID: 21300000, guid: 662b5dfa79d103a438c2fd0ad314d907, type: 3}
+  - {fileID: 21300000, guid: e35ea59c39ec8644b93684e6a2eae6b4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Next
+  - UI_element1_inverted
+  - UI_element2_inverted
+  - Tetra-Exploratory-Emblem
+  - Return
+  - Expedition_III.2.1.4
+  - UI_element3_inverted
+  m_RenderDataMap: {}
+  m_Tag: UISpriteAsset1
+  m_IsVariant: 0

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Tetra-Exploratory_0.1.0/Game_start_scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

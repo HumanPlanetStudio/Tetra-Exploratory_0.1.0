@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UISpritesAsset2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 086fb1673abe43249872b07b5ab182d3, type: 3}
+    - {fileID: 2800000, guid: 9b4eca8deca9a0145a39e9eb57fcd218, type: 3}
+    - {fileID: 2800000, guid: 8da26624886924b4589e0351602e84e7, type: 3}
+    - {fileID: 2800000, guid: 7605449565f4b64488ad3363cd4a9ba7, type: 3}
+    - {fileID: 2800000, guid: b01957d63c905fb44aee73bba4b1b4ce, type: 3}
+    - {fileID: 2800000, guid: 0d08055afdf85e846a9cc3e156462793, type: 3}
+    - {fileID: 2800000, guid: b812b4f968254204ba1de688c70f28b4, type: 3}
+    - {fileID: 2800000, guid: be32ba7d0256a684d91d39c3e8e74f72, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8da26624886924b4589e0351602e84e7, type: 3}
+  - {fileID: 21300000, guid: 7605449565f4b64488ad3363cd4a9ba7, type: 3}
+  - {fileID: 21300000, guid: b01957d63c905fb44aee73bba4b1b4ce, type: 3}
+  - {fileID: 21300000, guid: 086fb1673abe43249872b07b5ab182d3, type: 3}
+  - {fileID: 21300000, guid: b812b4f968254204ba1de688c70f28b4, type: 3}
+  - {fileID: 21300000, guid: 0d08055afdf85e846a9cc3e156462793, type: 3}
+  - {fileID: 21300000, guid: be32ba7d0256a684d91d39c3e8e74f72, type: 3}
+  - {fileID: 21300000, guid: 9b4eca8deca9a0145a39e9eb57fcd218, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Fane_image
+  - Fane_portrait
+  - Oyun_image
+  - Apex_image
+  - Skvortzov_image
+  - Oyun_portrait
+  - Skvortzov_portrait
+  - Apex_portrait
+  m_RenderDataMap: {}
+  m_Tag: UISpritesAsset2
+  m_IsVariant: 0

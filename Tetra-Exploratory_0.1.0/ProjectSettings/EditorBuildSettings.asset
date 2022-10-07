@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tetra-Exploratory_0.1.0/Game_start_scene.unity
+    guid: f5d8419dc70806149a1b4436d85142f8
+  - enabled: 1
+    path: Assets/Tetra-Exploratory_0.1.0/Expedition_Setup_scene/Scenes/Expedition_setup_scene.unity
+    guid: ea88ff53e9c7c5f48bb8ea76a077d4da
+  - enabled: 1
+    path: Assets/Tetra-Exploratory_0.1.0/Tetra_base_phase3_mockup/Scenes/PhaseIII_Scene.unity
+    guid: af9643de0b5c15c498a4044d11362f24
+  m_configObjects: {}
